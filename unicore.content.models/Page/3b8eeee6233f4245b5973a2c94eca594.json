@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "9. Qu\u2019en est-il des rumeurs faisant e\u0301tat d\u2019aliments pouvant pre\u0301venir ou traiter l\u2019infection?", 
+  "language": "fre_FR", 
+  "title": "9. Qu\u2019en est-il des rumeurs faisant e\u0301tat d\u2019aliments pouvant pre\u0301venir ou traiter l\u2019infection?", 
+  "primary_category": "99921d0e456e4442b6eea9df0a928a83", 
+  "created_at": "2015-04-22T05:48:00.414736+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T06:17:18.645064+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "L\u2019OMS recommande fortement de ne chercher des conseils cre\u0301dibles sur la maladie a\u0300 virus Ebola qu\u2019aupre\u0300s des autorite\u0301s de la sante\u0301 publique compe\u0301tentes.\r\n\r\nAlors qu\u2019il n\u2019existe aucun me\u0301dicament spe\u0301cifique, le meilleur traitement reste les soins intensifs de soutien dispense\u0301s a\u0300 l\u2019ho\u0302pital par des agents de sante\u0301 appliquant strictement les proce\u0301dures de lutte contre l\u2019infection. Les mesures de protection recommande\u0301es permettent de combattre la maladie.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 8, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "9-combien-de-temps-une-personne-reste-elle-contagieuse", 
+  "uuid": "3b8eeee6233f4245b5973a2c94eca594"
+}

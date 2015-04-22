@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "6. Quel est le traitement?", 
+  "language": "fre_FR", 
+  "title": "6. Quel est le traitement?", 
+  "primary_category": "99921d0e456e4442b6eea9df0a928a83", 
+  "created_at": "2015-04-22T05:45:25.483277+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T06:17:18.830201+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Les malades gravement atteints ont besoin de soins intensifs de soutien. Ils sont souvent de\u0301shydrate\u0301s et il faut leur administrer des liquides par voie intraveineuse ou des solutions contenant des e\u0301lectrolytes pour la re\u0301hydratation orale. Il n\u2019y a pas actuellement de traitement spe\u0301cifique.\r\n\r\nCertains patients gue\u0301rissent avec les soins me\u0301dicaux adapte\u0301s a\u0300 leur cas.\r\n\r\nPour aider a\u0300 endiguer toute nouvelle propagation du virus, il faut isoler les cas suspects ou confirme\u0301s des autres patients et les agents de sante\u0301 qui les soignent doivent appliquer strictement les pre\u0301cautions de lutte contre l\u2019infection.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 5, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "6-ou-trouver-des-informations-supplementaires-ou-obtenir-des-reponses-vos-questions-sur-ebola", 
+  "uuid": "803d43a0d20b45cf842b651ffa07ede6"
+}

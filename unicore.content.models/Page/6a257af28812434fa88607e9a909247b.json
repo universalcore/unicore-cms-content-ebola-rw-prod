@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "10. Comment l\u2019OMS prote\u0300ge-t-elle la sante\u0301 au cours des flambe\u0301es?", 
+  "language": "fre_FR", 
+  "title": "10. Comment l\u2019OMS prote\u0300ge-t-elle la sante\u0301 au cours des flambe\u0301es?", 
+  "primary_category": "99921d0e456e4442b6eea9df0a928a83", 
+  "created_at": "2015-04-22T05:48:38.102819+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T06:17:18.576140+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "L\u2019OMS donne des conseils techniques aux pays et aux communaute\u0301s pour se pre\u0301parer et re\u0301agir aux flambe\u0301es de maladie a\u0300 virus Ebola.\r\n\r\nElle me\u0300ne les actions suivantes:\r\n\r\n- surveillance de la maladie et e\u0301changes d\u2019informations entre les re\u0301gions pour de\u0301celer les flambe\u0301es;\r\n\r\n- assistance technique pour enque\u0302ter sur les menaces sanitaires quand elles se produisent et les endiguer, avec par exemple une aide sur le terrain pour repe\u0301rer les malades et suivre l\u2019e\u0301volution de la maladie;\r\n\r\n- avis sur les options pour la pre\u0301vention et le traitement;\r\n\r\n- de\u0301ploiement d\u2019experts et distribution de fournitures (comme les e\u0301quipements de protection individuelle pour les agents de sante\u0301) lorsque le pays en fait la demande\r\n\r\n- communications pour faire connai\u0302tre la nature de la maladie et sensibiliser aux mesures de protection de la sante\u0301 destine\u0301es a\u0300 endiguer la transmission du virus;\r\n\r\n- activation des re\u0301seaux re\u0301gionaux et mondiaux d\u2019experts pour fournir, sur demande, une assistance et atte\u0301nuer les effets potentiels sur la sante\u0301 publique internationale ainsi que les perturbations dans le secteur des voyages et celui du commerce.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 9, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "10-quelles-sont-les-recommandations-suivre-si-un-ou-plusieurs-nouveaux-cas-de-la-maladie-ebola-survenaient-au-senegal", 
+  "uuid": "6a257af28812434fa88607e9a909247b"
+}

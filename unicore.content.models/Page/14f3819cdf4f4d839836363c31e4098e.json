@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "3. Qui est le plus expose\u0301 au risque?", 
+  "language": "fre_FR", 
+  "title": "3. Qui est le plus expose\u0301 au risque?", 
+  "primary_category": "99921d0e456e4442b6eea9df0a928a83", 
+  "created_at": "2015-04-22T05:43:09.625184+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T06:17:19.067097+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Lors d\u2019une flambe\u0301e, les personnes les plus expose\u0301es sont:\r\n\r\n - les agents de sante\u0301; \r\n - les membres de la famille ou toute autre personne ayant des contacts proches avec les sujets infecte\u0301s; \r\n - les parents ou amis en contact direct avec le corps du de\u0301funt lors des\r\n   rites d\u2019inhumation; \r\n\r\nDe nouvelles e\u0301tudes sont ne\u0301cessaires pour savoir si certains groupes, comme les sujets immunode\u0301prime\u0301s ou ceux qui ont des maladies pre\u0301existantes, sont plus sensibles que d\u2019autres a\u0300 l\u2019infection.\r\n\r\nL\u2019application de mesures de protection dans les dispensaires et les ho\u0302pitaux, lors des rassemblements locaux ou a\u0300 domicile permet de limiter l\u2019exposition au virus.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 2, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "3-quel-est-le-temps-ecoule-entre-linfection-et-lapparition-des-premiers-signes-et-symptomes-de-la-maladie", 
+  "uuid": "14f3819cdf4f4d839836363c31e4098e"
+}

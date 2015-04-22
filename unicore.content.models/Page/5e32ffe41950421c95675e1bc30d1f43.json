@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "1. Qu\u2019est-ce que la maladie a\u0300 virus Ebola?\r\n", 
+  "language": "fre_FR", 
+  "title": "1. Qu\u2019est-ce que la maladie a\u0300 virus Ebola?", 
+  "primary_category": "99921d0e456e4442b6eea9df0a928a83", 
+  "created_at": "2015-04-22T05:39:04.229732+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T06:17:19.203796+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "La maladie a\u0300 virus Ebola (auparavant appele\u0301e fie\u0300vre he\u0301morragique a\u0300 virus Ebola) est une maladie grave, souvent mortelle, dont le taux de le\u0301talite\u0301 peut atteindre 90%. \r\nElle touche l\u2019homme et les primates (singes, gorilles et chimpanze\u0301s).\r\n\r\nElle est apparue pour la premie\u0300re fois en 1976, lors de deux flambe\u0301es simultane\u0301es, l\u2019une dans un village pre\u0300s de la rivie\u0300re Ebola en Re\u0301publique de\u0301mocratique du Congo et l\u2019autre dans une zone isole\u0301e du Soudan.\r\n\r\nOn ignore l\u2019origine du virus Ebola mais, sur la base des donne\u0301es disponibles, on conside\u0300re que les chauves-souris frugivores (Pte\u0301ropodide\u0301s) en sont les ho\u0302tes probables.", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "1-quest-ce-que-la-maladie-virus-ebola-et-quels-sont-les-signes-et-symptomes-typiques-de-linfection-virus-ebola", 
+  "uuid": "5e32ffe41950421c95675e1bc30d1f43"
+}

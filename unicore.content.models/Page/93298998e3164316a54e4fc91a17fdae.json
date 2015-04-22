@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "Cr\u00e9dits", 
+  "language": "fre_FR", 
+  "title": "Cr\u00e9dits", 
+  "primary_category": null, 
+  "created_at": "2015-04-22T05:51:13.496635+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-22T05:51:13.496844+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Cette s\u00e9rie de Questions/R\u00e9ponses a \u00e9t\u00e9 \u00e9labor\u00e9e en collaboration avec l'OMS et UNICEF", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "credits", 
+  "uuid": "93298998e3164316a54e4fc91a17fdae"
+}

@@ -1,0 +1,20 @@
+{
+  "subtitle": "", 
+  "uuid": "99921d0e456e4442b6eea9df0a928a83", 
+  "language": "fre_FR", 
+  "title": "Q&R sur la maladie \u00e0 virus Ebola ", 
+  "image": null, 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "language": "python", 
+    "package": "elastic-git"
+  }, 
+  "slug": "qr-sur-la-maladie-virus-ebola", 
+  "source": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "featured_in_navbar": false, 
+  "id": null
+}
