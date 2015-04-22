@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "", 
+  "language": "fre_FR", 
+  "title": "Site Footer", 
+  "primary_category": null, 
+  "created_at": "2015-04-22T05:52:21.846891+00:00", 
+  "featured_in_category": false, 
+  "modified_at": "2015-04-22T05:52:21.847094+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": " \u00a9 Unicef 2015", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "site-footer", 
+  "uuid": "fd2d92e22f7740389c0a9f6e1c5652a6"
+}
