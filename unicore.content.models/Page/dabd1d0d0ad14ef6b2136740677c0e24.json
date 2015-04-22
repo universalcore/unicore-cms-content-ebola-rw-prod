@@ -1,0 +1,29 @@
+{
+  "subtitle": "", 
+  "description": "5. Quand faut-il consulter?", 
+  "language": "fre_FR", 
+  "title": "5. Quand faut-il consulter?", 
+  "primary_category": "99921d0e456e4442b6eea9df0a928a83", 
+  "created_at": "2015-04-22T05:44:44.466373+00:00", 
+  "featured_in_category": true, 
+  "modified_at": "2015-04-22T05:44:44.466572+00:00", 
+  "_version": {
+    "package_version": "1.0.1", 
+    "language_version": "2.7.6", 
+    "language": "python", 
+    "language_version_string": "2.7.6 (default, Mar 22 2014, 23:03:41) \n[GCC 4.8.2]", 
+    "package": "elastic-git"
+  }, 
+  "linked_pages": [], 
+  "id": null, 
+  "content": "Une personne qui est alle\u0301e dans une zone ou\u0300 l\u2019on sait que la maladie a\u0300 virus Ebola est pre\u0301sente ou qui a e\u0301te\u0301 en contact avec un cas ave\u0301re\u0301 ou suspect et qui commence a\u0300 avoir des sympto\u0302mes doit consulter imme\u0301diatement.\r\n\r\nTous les cas pour lesquels il y a une suspicion doivent e\u0302tre signale\u0301s sans de\u0301lai a\u0300 l\u2019unite\u0301 de sante\u0301 la plus proche. La rapidite\u0301 des soins me\u0301dicaux est essentielle pour ame\u0301liorer les chances de survie. Il est e\u0301galement important d\u2019empe\u0302cher la propagation de la maladie et l\u2019on appliquera imme\u0301diatement des mesures de lutte contre l\u2019infection.\r\n", 
+  "source": null, 
+  "featured": false, 
+  "author_tags": [], 
+  "image": null, 
+  "published": null, 
+  "position": 0, 
+  "image_host": "http://thumbor.unicore.io", 
+  "slug": "5-que-puis-je-faire-pour-eviter-cette-maladie", 
+  "uuid": "dabd1d0d0ad14ef6b2136740677c0e24"
+}
